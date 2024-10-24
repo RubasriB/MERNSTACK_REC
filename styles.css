@@ -1,0 +1,15 @@
+.top{
+    background-color: orangered;
+    width: 1000px;
+    height: 300px;
+}
+.mid{
+    background-color: rgb(251, 251, 251);
+    width: 1000px;
+    height: 300px;
+}
+.bottom{
+    background-color: forestgreen;
+    width: 1000px;
+    height: 300px;
+}
